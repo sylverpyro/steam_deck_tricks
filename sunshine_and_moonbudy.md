@@ -9,3 +9,4 @@ Get this from Discover/Flathub
 
 # Sunshine resolutino automation
 https://github.com/Nonary/ResolutionAutomation
+https://github.com/Nonary/ResolutionAutomation/releases/tag/precommand - Because I prefer the pre/post action version rather than polling
